@@ -1,0 +1,7 @@
+"scripts": [
+  {
+    "Python": ".py",
+    "C++": ".cpp",
+    "Java": ".java"
+  }
+]
