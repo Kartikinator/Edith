@@ -7,7 +7,6 @@ from gtts import gTTS
 from playsound import playsound
 import cv2
 import numpy as np
-import matplotlib.pyplot as plt
 import time
 import random
 import os
